@@ -1,0 +1,2 @@
+  git config --global user.email "25500@burnside.school.nz"
+  git config --global user.name "25500-lucky"
